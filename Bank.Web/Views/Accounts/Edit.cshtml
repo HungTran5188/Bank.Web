@@ -1,0 +1,92 @@
+@model Bank.Models.AccountModel
+
+@{
+    ViewData["Title"] = "Edit";
+  
+        string label = "";
+        switch (Model.ActionType)
+        {
+            case Bank.Models.ActionType.Deposit:
+                label = "Enter Deposit Amount";
+                break;
+            case Bank.Models.ActionType.Withdraw:
+                label = "Enter to Withdraw Amount";
+                break;
+            case Bank.Models.ActionType.Tranfer:
+                label = "Enter to Tranfer Amount";
+                break;
+            default:
+                break;
+         }         
+}
+
+<h2>Edit</h2>
+
+<form asp-action="Edit">
+    <div class="form-horizontal">
+        <h4>Account</h4>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="AccountID" />
+        <input type="hidden" asp-for="RowVersion" />
+        <input type="hidden" asp-for="ActionType" />
+        <div class="form-group">
+            <label asp-for="AccountNumber" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="AccountNumber" class="form-control" readonly />
+                <span asp-validation-for="AccountNumber" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="AccountName" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="AccountName" class="form-control" readonly/>
+                <span asp-validation-for="AccountName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Balance" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Balance" class="form-control" readonly/>
+                <span asp-validation-for="Balance" class="text-danger"></span>
+            </div>
+        </div>
+        @{
+            if (Model.ActionType == Bank.Models.ActionType.Tranfer)
+            {
+                <div class="form-group">
+                    <label class="col-md-2 control-label"> Account Number Tranfer </label>
+                    <div class="col-md-10">
+                        <input asp-for="TranferNumber" class="form-control" />
+                        <span asp-validation-for="TranferNumber" class="text-danger"></span>
+                    </div>
+                </div>
+
+            }
+        }
+
+        <div class="form-group">
+            <label class="col-md-2 control-label"> @label </label>
+            <div class="col-md-10">
+                <input asp-for="Amount" class="form-control" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+        </div>
+       
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

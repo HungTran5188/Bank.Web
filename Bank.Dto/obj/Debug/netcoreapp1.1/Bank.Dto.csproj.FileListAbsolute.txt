@@ -1,0 +1,6 @@
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Dto\bin\Debug\netcoreapp1.1\Bank.Dto.deps.json
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Dto\bin\Debug\netcoreapp1.1\Bank.Dto.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Dto\bin\Debug\netcoreapp1.1\Bank.Dto.pdb
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Dto\obj\Debug\netcoreapp1.1\Bank.Dto.AssemblyInfo.cs
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Dto\obj\Debug\netcoreapp1.1\Bank.Dto.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Dto\obj\Debug\netcoreapp1.1\Bank.Dto.pdb

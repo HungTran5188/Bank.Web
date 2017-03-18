@@ -1,0 +1,6 @@
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Models\bin\Debug\netcoreapp1.1\Bank.Models.deps.json
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Models\bin\Debug\netcoreapp1.1\Bank.Models.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Models\bin\Debug\netcoreapp1.1\Bank.Models.pdb
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Models\obj\Debug\netcoreapp1.1\Bank.Models.AssemblyInfo.cs
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Models\obj\Debug\netcoreapp1.1\Bank.Models.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Models\obj\Debug\netcoreapp1.1\Bank.Models.pdb

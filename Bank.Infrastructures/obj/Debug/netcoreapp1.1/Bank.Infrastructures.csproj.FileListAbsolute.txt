@@ -1,0 +1,6 @@
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Infrastructures\bin\Debug\netcoreapp1.1\Bank.Infrastructures.deps.json
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Infrastructures\bin\Debug\netcoreapp1.1\Bank.Infrastructures.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Infrastructures\bin\Debug\netcoreapp1.1\Bank.Infrastructures.pdb
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Infrastructures\obj\Debug\netcoreapp1.1\Bank.Infrastructures.AssemblyInfo.cs
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Infrastructures\obj\Debug\netcoreapp1.1\Bank.Infrastructures.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Infrastructures\obj\Debug\netcoreapp1.1\Bank.Infrastructures.pdb

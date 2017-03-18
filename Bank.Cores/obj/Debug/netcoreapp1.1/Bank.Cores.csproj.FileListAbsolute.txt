@@ -1,0 +1,15 @@
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\bin\Debug\netcoreapp1.1\Bank.Cores.deps.json
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\bin\Debug\netcoreapp1.1\Bank.Cores.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\bin\Debug\netcoreapp1.1\Bank.Cores.pdb
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\bin\Debug\netcoreapp1.1\Bank.Dto.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\bin\Debug\netcoreapp1.1\Bank.Entities.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\bin\Debug\netcoreapp1.1\Bank.Infrastructures.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\bin\Debug\netcoreapp1.1\Bank.Models.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\bin\Debug\netcoreapp1.1\Bank.Dto.pdb
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\bin\Debug\netcoreapp1.1\Bank.Entities.pdb
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\bin\Debug\netcoreapp1.1\Bank.Infrastructures.pdb
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\bin\Debug\netcoreapp1.1\Bank.Models.pdb
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\obj\Debug\netcoreapp1.1\Bank.Cores.csprojResolveAssemblyReference.cache
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\obj\Debug\netcoreapp1.1\Bank.Cores.AssemblyInfo.cs
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\obj\Debug\netcoreapp1.1\Bank.Cores.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Cores\obj\Debug\netcoreapp1.1\Bank.Cores.pdb

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="1.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bank.Dto\Bank.Dto.csproj" />
+    <ProjectReference Include="..\Bank.Entities\Bank.Entities.csproj" />
+    <ProjectReference Include="..\Bank.Infrastructures\Bank.Infrastructures.csproj" />
+    <ProjectReference Include="..\Bank.Models\Bank.Models.csproj" />
+  </ItemGroup>
+
+</Project>

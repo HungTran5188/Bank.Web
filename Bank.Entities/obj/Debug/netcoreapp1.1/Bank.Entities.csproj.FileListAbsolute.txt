@@ -1,0 +1,6 @@
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Entities\bin\Debug\netcoreapp1.1\Bank.Entities.deps.json
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Entities\bin\Debug\netcoreapp1.1\Bank.Entities.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Entities\bin\Debug\netcoreapp1.1\Bank.Entities.pdb
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Entities\obj\Debug\netcoreapp1.1\Bank.Entities.AssemblyInfo.cs
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Entities\obj\Debug\netcoreapp1.1\Bank.Entities.dll
+C:\Users\hungttran\Desktop\Bank.Web\Bank.Entities\obj\Debug\netcoreapp1.1\Bank.Entities.pdb
